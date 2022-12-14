@@ -4,7 +4,7 @@ function About(){
     return (
         <div>
             <h1>About</h1>
-            <p>My name is Dominic, and I'm a growing Full-Stack Web Developer, and our instructor calls us trash.</p>
+            <p>My name is Dominic, and I'm a growing Full-Stack Web Developer.</p>
             <p><Link to="/">Home →</Link></p>
             <p><Link to="/contact">Contact →</Link></p>
             <p><Link to="/donate">Donate →</Link></p>
